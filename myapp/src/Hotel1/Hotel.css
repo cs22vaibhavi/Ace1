@@ -2,14 +2,16 @@
     width: 600px;
     height:900px;
     border-radius: 15px;
+    margin:100px;
     padding: 50px;
     font-family: Arial, sans-serif;
   }
   
   .main{
     background: linear-gradient(135deg, #6eb5a0, #a3d9c5); /* Soft gradient */
-    border-radius: 15px;
-    padding: 40px;
+    border-radius: 10px;
+    padding: 50px;
+    
     color: white;
     position: relative;
     width: 300px;
@@ -180,7 +182,7 @@
     padding: 10px;
     margin-right: 1px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    width: 200px;
+    width: 170px;
     height: 30px;
     position: relative;
     scroll-snap-align: start;
